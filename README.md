@@ -38,3 +38,7 @@ OPÇÕES CURTAS/LONGAS
 -v  Exibe informações detalhadas do pacote, essa opção requer argumento, exemplo: proposedsch -v gimp, formato longo "--verbose"
 ```
 
+### Vídeo de demostração
+
+* https://asciinema.org/connect/2775634a-ef0c-4851-b8f0-9a1cdcbde197
+
