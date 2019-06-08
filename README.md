@@ -40,5 +40,5 @@ OPÇÕES CURTAS/LONGAS
 
 ### Vídeo de demostração
 
-* https://asciinema.org/connect/2775634a-ef0c-4851-b8f0-9a1cdcbde197
+* https://asciinema.org/a/CDhv5oN2DLX5V9YfnWmg7xQfo
 
