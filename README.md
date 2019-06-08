@@ -1,4 +1,4 @@
-# Script proposedsch pesquisa de pacotes no repositório proposed-updates
+# Script proposedsch
 
 ## Descrição
 
